@@ -1,4 +1,8 @@
-# Title
+# Lamp ON
+
+Changes all lamps to be always on.
+
+Alternatively the darkness level on which lamps start to turn on/off can be changed via mod settings.
 
 ---
 
@@ -8,7 +12,7 @@
 
 # Roadmap
 
--   Make this mod awesome
+-   Nothing planned
 
 # Collaborations welcome
 
@@ -18,4 +22,4 @@
 
 # Acknowledgement
 
--   Me, for being awesome
+-   NOiZE for the mod idea
