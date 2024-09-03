@@ -1,0 +1,11 @@
+{
+  "name": "lamp-on",
+  "version": "1.0.0",
+  "title": "Lamp ON",
+  "author": "Subject31415",
+  "factorio_version": "1.1",
+  "dependencies": [
+    "base >= 1.1"
+  ],
+  "description": "Lamps are always on by default; alternatively the darkness level to control when lights will go on/off can be controlled with a setting"
+}
